@@ -1,2 +1,11 @@
-discovery_piscine/cell00
+# Clone repository
+git clone https://github.com/DPP-kaobboon/DPP-kaobboon.git
+cd DPP-kaobboon
 
+# สร้างไฟล์
+echo "content" > discovery_piscine/new_file.txt
+
+# Commit และ Push
+git add discovery_piscine/new_file.txt
+git commit -m "Add new file"
+git push origin main
