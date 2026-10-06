@@ -1,0 +1,10 @@
+number_one = int(input("Enter the first number: "))
+number_two = int(input("Enter the second number: "))
+result = number_one + number_two
+print(f"{number_one} + {number_two} = {result}")
+result_one = number_one - number_two
+print(f"{number_one} - {number_two} = {result_one}")
+result_two = number_one * number_two
+print(f"{number_one} x {number_two} = {result_two}")
+result_three = number_one / number_two
+print(f"{number_one} / {number_two} = {result_three}")
