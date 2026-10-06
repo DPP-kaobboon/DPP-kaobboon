@@ -1,4 +1,4 @@
-number = int(input("Enter a number: "))
+number = int(input("Enter a number:\n"))
 
 for count in range(0, 9):
     result = count * number
