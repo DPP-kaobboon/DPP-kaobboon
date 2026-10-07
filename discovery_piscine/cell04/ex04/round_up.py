@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import math
 number = float(input("Enter a float number: "))
 result = math.ceil(number)
