@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 number = int(input("Enter a number:\n"))
 
 for count in range(0, 9):
