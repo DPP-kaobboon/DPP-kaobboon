@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 numbers = [2, 4, 6, 8, 10, 12, 14, 6, 18, 2]
 result = set()
 
